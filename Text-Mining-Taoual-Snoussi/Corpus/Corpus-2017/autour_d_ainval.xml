@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./testStyle.css" type="text/css" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <!-- title of the resource -->
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+          <!-- Information about distribution of the resource -->
+        </p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <!-- Information about source from which the resource derives -->
+        </p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>
+          <w lemma="card" type="N">1</w>
+          <pc force="strong">.</pc>
+        </s>
+        <s>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="quitter" type="V" subtype="motion_initial">Quitter</w>
+            <placeName n="0">
+              <geogName type="P" subtype="PPL">
+                <name>
+                  <w type="NPr">Sourdon</w>
+                </name>
+              </geogName>
+            </placeName>
+            <offset type="direction" subtype="median">
+              <w lemma="par" type="PREP">par</w>
+            </offset>
+            <placeName n="1">
+              <geogName type="R" subtype="ST">
+                <geogFeat>
+                  <w lemma="le" type="DET">la</w>
+                  <w lemma="rue" type="N">rue</w>
+                </geogFeat>
+                <rs n="0">
+                  <name>
+                    <w type="NPr">Carnot</w>
+                  </name>
+                </rs>
+              </geogName>
+            </placeName>
+          </phr>
+          <pc>(</pc>
+          <w lemma="balisage" type="N">balisage</w>
+          <w lemma="jaune" type="A">jaune</w>
+          <pc>)</pc>
+          <pc force="weak">,</pc>
+          <w lemma="au" type="PREPDET">au</w>
+          <w lemma="calvaire" type="N">calvaire</w>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="bifurquer" type="V" subtype="motion_median">bifurquer</w>
+            <w lemma="à" type="PREP">à</w>
+            <offset type="orientation" subtype="right">
+              <w type="N">droite</w>
+            </offset>
+          </phr>
+          <pc force="strong">.</pc>
+        </s>
+        <s>
+          <w lemma="card" type="N">2</w>
+          <pc force="strong">.</pc>
+        </s>
+        <s>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="se" type="PRO">S'</w>
+            <w lemma="engager" type="V" subtype="motion_median">engager</w>
+            <w lemma="à" type="PREP">à</w>
+            <offset type="orientation" subtype="right">
+              <w type="N">droite</w>
+            </offset>
+            <offset type="direction" subtype="median">
+              <w lemma="par" type="PREP">par</w>
+            </offset>
+            <term type="N">
+              <w lemma="un" type="DET">un</w>
+              <w lemma="chemin" type="N">chemin</w>
+            </term>
+          </phr>
+          <pc force="strong">.</pc>
+        </s>
+        <s>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="passer" type="V" subtype="motion_median">Passer</w>
+            <offset type="adjacency">
+              <w lemma="près" type="ADV">près</w>
+              <w lemma="du" type="PREPDET">du</w>
+            </offset>
+            <term type="N">
+              <w lemma="cimetière" type="N">cimetière</w>
+            </term>
+          </phr>
+          <w lemma="et" type="CONJC">et</w>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="atteindre" type="V" subtype="motion_final">atteindre</w>
+            <placeName n="0">
+              <geogName type="P" subtype="PPL">
+                <name>
+                  <w type="NPr">Ainval</w>
+                </name>
+              </geogName>
+            </placeName>
+          </phr>
+          <pc force="strong">.</pc>
+        </s>
+        <s>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="traverser" type="V" subtype="motion_median">Traverser</w>
+            <term type="N">
+              <w lemma="le" type="DET">le</w>
+              <w lemma="hameau" type="N">hameau</w>
+            </term>
+          </phr>
+          <pc force="weak">,</pc>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="passer" type="V" subtype="motion_median">passer</w>
+            <offset type="adjacency">
+              <w lemma="près" type="ADV">près</w>
+              <w lemma="de" type="PREP">de</w>
+            </offset>
+            <term type="N">
+              <w lemma="le" type="DET">la</w>
+              <w lemma="petit" type="A">petite</w>
+              <w lemma="église" type="N">église</w>
+            </term>
+          </phr>
+          <offset type="temporal">
+            <w lemma="puis" type="ADV">puis</w>
+          </offset>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="remonter" type="V" subtype="motion_median">remonter</w>
+            <offset type="direction" subtype="final">
+              <w lemma="en" type="PREP">en</w>
+              <w lemma="direction" type="N">direction</w>
+            </offset>
+            <w lemma="de" type="PREP">de</w>
+            <placeName n="0">
+              <geogName type="P" subtype="PPL">
+                <name>
+                  <w type="NPr">Coullemelle</w>
+                </name>
+              </geogName>
+            </placeName>
+          </phr>
+          <pc force="strong">.</pc>
+        </s>
+        <s>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="longer" type="V" subtype="motion_median">Longer</w>
+            <placeName n="0">
+              <w lemma="le" type="DET">le</w>
+              <name>
+                <w type="NPr">Bois</w>
+                <w type="NPr">Fermé</w>
+              </name>
+            </placeName>
+          </phr>
+          <pc force="weak">,</pc>
+          <offset type="temporal">
+            <w lemma="puis" type="ADV">puis</w>
+          </offset>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="passer" type="V" subtype="motion_median">passer</w>
+            <placeName n="0">
+              <geogName type="P" subtype="PPL">
+                <name>
+                  <w type="NPr">Septoutre</w>
+                </name>
+              </geogName>
+            </placeName>
+          </phr>
+          <offset type="inclusion">
+            <w lemma="sur" type="PREP">sur</w>
+          </offset>
+          <offset type="orientation" subtype="left">
+            <w lemma="le" type="DET">la</w>
+            <w lemma="gauche" type="A">gauche</w>
+          </offset>
+          <pc force="strong">.</pc>
+        </s>
+        <s>
+          <w lemma="card" type="N">3</w>
+          <pc force="strong">.</pc>
+        </s>
+        <s>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="emprunter" type="V" subtype="motion_median">Emprunter</w>
+            <w lemma="à" type="PREP">à</w>
+            <offset type="orientation" subtype="right">
+              <w lemma="droit" type="A">droite</w>
+            </offset>
+            <term type="N">
+              <w lemma="un" type="DET">un</w>
+              <w lemma="chemin" type="N">chemin</w>
+              <w lemma="de" type="PREP">de</w>
+              <w lemma="terre" type="N">terre</w>
+            </term>
+          </phr>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="longer" type="V" subtype="motion_median">longeant</w>
+            <placeName n="0">
+              <geogName type="V" subtype="FRST">
+                <w lemma="le" type="DET">le</w>
+                <name>
+                  <w type="NPr">Bois</w>
+                  <w lemma="du" type="PREPDET">des</w>
+                  <w type="NPr">Sorbiers</w>
+                </name>
+              </geogName>
+            </placeName>
+          </phr>
+          <offset type="temporal">
+            <w lemma="puis" type="ADV">puis</w>
+          </offset>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="pénétrer" type="V" subtype="motion_final">pénétrer</w>
+            <offset type="inclusion">
+              <w lemma="dans" type="PREP">dans</w>
+            </offset>
+            <placeName n="1">
+              <w lemma="le" type="DET">le</w>
+              <geogName type="V" subtype="FRST">
+                <geogFeat>
+                  <w type="NPr">Bois</w>
+                </geogFeat>
+                <w lemma="de" type="PREP">de</w>
+                <rs n="0">
+                  <name>
+                    <w lemma="Saint-Pierre" type="NPr">Saint-Pierre</w>
+                  </name>
+                </rs>
+              </geogName>
+            </placeName>
+          </phr>
+          <pc force="strong">.</pc>
+        </s>
+        <s>
+          <offset type="direction">
+            <w lemma="plus" type="ADV">Plus</w>
+            <w lemma="loin" type="ADV">loin</w>
+          </offset>
+          <pc force="weak">,</pc>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="atteindre" type="V" subtype="motion_final">atteindre</w>
+            <term type="N">
+              <w lemma="un" type="DET">une</w>
+              <w lemma="croisée" type="N">croisée</w>
+              <w lemma="de" type="PREP">de</w>
+              <w lemma="chemin" type="N">chemins</w>
+            </term>
+          </phr>
+          <pc force="strong">.</pc>
+        </s>
+        <s>
+          <w lemma="card" type="N">4</w>
+          <pc force="strong">.</pc>
+        </s>
+        <s>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="tourner" type="V" subtype="motion_median">Tourner</w>
+            <w lemma="à" type="PREP">à</w>
+            <term type="offset" subtype="orientation">
+              <w type="N">droite</w>
+            </term>
+          </phr>
+          <w lemma="et" type="CONJC">et</w>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="traverser" type="V" subtype="motion_median">traverser</w>
+            <placeName n="1">
+              <geogName type="P" subtype="PPL">
+                <geogFeat>
+                  <w lemma="le" type="DET">le</w>
+                  <w lemma="village" type="N">village</w>
+                </geogFeat>
+                <w lemma="de" type="PREP">d'</w>
+                <placeName n="0">
+                  <name>
+                    <w type="NPr">Esclainvillers</w>
+                  </name>
+                </placeName>
+              </geogName>
+            </placeName>
+          </phr>
+          <pc force="strong">.</pc>
+        </s>
+        <s>
+          <w lemma="à" type="PREP">A</w>
+          <w lemma="hauteur" type="N">hauteur</w>
+          <w lemma="de" type="PREP">de</w>
+          <w lemma="le" type="DET">l'</w>
+          <w lemma="église" type="N">église</w>
+          <pc force="weak">,</pc>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="prendre" type="V" subtype="motion_median">prendre</w>
+            <w lemma="à" type="PREP">à</w>
+            <offset type="orientation" subtype="right">
+              <w lemma="droit" type="A">droite</w>
+            </offset>
+            <term type="N">
+              <w lemma="un" type="DET">une</w>
+              <w lemma="ruelle" type="N">ruelle</w>
+            </term>
+            <offset type="temporal">
+              <w lemma="puis" type="ADV">puis</w>
+            </offset>
+            <w lemma="un" type="DET">un</w>
+            <w lemma="chemin" type="N">chemin</w>
+            <w lemma="de" type="PREP">de</w>
+            <w lemma="terre" type="N">terre</w>
+          </phr>
+          <pc force="strong">.</pc>
+        </s>
+        <s>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="traverser" type="V" subtype="motion_median">traverser</w>
+            <placeName n="1">
+              <geogName type="T" subtype="VAL">
+                <geogFeat>
+                  <w lemma="le" type="DET">la</w>
+                  <w lemma="vallée" type="N">vallée</w>
+                </geogFeat>
+                <rs n="0">
+                  <name>
+                    <w type="NPr">Vaquette</w>
+                  </name>
+                </rs>
+              </geogName>
+            </placeName>
+          </phr>
+          <offset type="temporal">
+            <w lemma="puis" type="ADV">puis</w>
+          </offset>
+          <placeName n="1">
+            <geogName>
+              <geogFeat>
+                <w lemma="le" type="DET">le</w>
+                <w lemma="fossé" type="N">fossé</w>
+              </geogFeat>
+              <w lemma="de" type="PREP">de</w>
+              <placeName n="0">
+                <name>
+                  <w type="NPr">Saint-Firmin</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName>
+          <pc force="strong">.</pc>
+        </s>
+        <s>
+          <w lemma="card" type="N">5</w>
+          <pc force="strong">.</pc>
+        </s>
+        <s>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="se" type="PRO">S'</w>
+            <w lemma="engager" type="V" subtype="motion_median">engager</w>
+            <w lemma="à" type="PREP">à</w>
+            <term type="offset" subtype="orientation">
+              <w type="N">droite</w>
+            </term>
+            <w lemma="en" type="PREP">en</w>
+            <term type="offset" subtype="adjacence">
+              <w lemma="lisière" type="N">lisière</w>
+            </term>
+          </phr>
+          <w lemma="et" type="CONJC">et</w>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="atteindre" type="V" subtype="motion_final">atteindre</w>
+            <term type="N">
+              <w lemma="un" type="DET">une</w>
+              <w lemma="intersection" type="N">intersection</w>
+            </term>
+          </phr>
+          <pc force="strong">.</pc>
+        </s>
+        <s>
+          <w lemma="card" type="N">6</w>
+          <pc force="strong">.</pc>
+        </s>
+        <s>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="tourner" type="V" subtype="motion_median">Tourner</w>
+            <w lemma="à" type="PREP">à</w>
+            <offset type="orientation" subtype="left">
+              <w lemma="gauche" type="A">gauche</w>
+            </offset>
+          </phr>
+          <pc force="weak">,</pc>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="passer" type="V" subtype="motion_median">passer</w>
+            <placeName n="1">
+              <w lemma="à" type="PREP">à</w>
+              <offset type="adjacency">
+                <w lemma="proximité" type="N">proximité</w>
+                <w lemma="de" type="PREP">de</w>
+              </offset>
+              <w lemma="le" type="DET">la</w>
+              <geogName type="S" subtype="CH">
+                <geogFeat>
+                  <w lemma="chapelle" type="N">chapelle</w>
+                </geogFeat>
+                <placeName n="0">
+                  <geogName type="P" subtype="PPL">
+                    <name>
+                      <w type="NPr">Saint-Aubin</w>
+                    </name>
+                  </geogName>
+                </placeName>
+              </geogName>
+            </placeName>
+          </phr>
+          <offset type="temporal">
+            <w lemma="puis" type="ADV">puis</w>
+          </offset>
+          <phr type="verb_phrase" subtype="motion">
+            <w lemma="remonter" type="V" subtype="motion_median">remonter</w>
+            <offset type="direction" subtype="final">
+              <w lemma="vers" type="PREP">vers</w>
+            </offset>
+            <placeName n="0">
+              <name>
+                <w type="NPr">Sourdon</w>
+              </name>
+            </placeName>
+          </phr>
+          <pc force="strong">.</pc>
+        </s>
+        <s/>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,26 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+6
+"<E>" 70 200 1 2 
+"" 606 203 0 
+"\\\"" 173 148 2 3 5 
+"<WORD>" 293 145 2 4 3 
+"\\\"" 438 146 1 1 
+":motCommencantMaj.grf" 266 226 1 4 
