@@ -1,0 +1,12 @@
+0000000001
+-1 grapheverbemouv
+: 1 1 
+: 2 2 
+: 3 3 
+t 
+f 
+%<E>
+%<E>/{
+%<motion>
+%<E>/,.motion}
+f

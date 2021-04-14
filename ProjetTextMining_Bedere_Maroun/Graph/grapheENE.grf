@@ -1,0 +1,41 @@
+#Unigraph
+SIZE 1488 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+21
+"<E>" 30 247 1 2 
+"" 1356 130 0 
+"<E>/{" 77 209 5 3 4 8 14 19 
+":grapheverbepercept.grf" 183 63 2 5 8 
+":grapheverbemouv.grf" 146 147 2 5 8 
+"<DET>+<PREPDET>+l'+alors+ensuite+le" 391 337 4 7 6 5 19 
+"<N>" 594 307 1 8 
+"<E>+<ADV>" 485 26 1 8 
+":grapheoffset.grf" 578 140 3 9 8 19 
+"<E>+<DET>+<PREPDET>+l'+du+de+<WORD>+en" 758 93 2 9 19 
+"<WORD>+_" 922 186 2 19 10 
+":grapheoffset.grf" 911 46 4 11 10 13 18 
+"," 328 470 2 4 3 
+"<E>/,.ENominalE}" 1233 165 1 1 
+":graphedistance" 231 550 1 15 
+":grapheoffset.grf" 561 569 2 17 16 
+":graphemotpivot.grf" 1088 478 2 17 13 
+"<WORD>" 846 495 2 16 15 
+":graphedistance.grf" 1056 192 1 13 
+":graphemotpivot.grf" 906 379 10 13 11 19 20 9 4 3 10 8 12 
+"<WORD>" 610 505 1 12 

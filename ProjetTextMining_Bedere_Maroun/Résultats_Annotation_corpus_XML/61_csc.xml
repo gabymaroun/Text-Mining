@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="StyleSheet.xsl"?>
+
+<texte> {S} <csc>
+		<form>
+			<csc>
+				<form>Du</form>
+				<code>motPivot</code>
+			</csc>
+			<csc>
+				<form> parking</form>
+				<code>motPivot</code>
+			</csc>
+		</form>
+		<code>ENominalE</code>
+	</csc> à Malpas, 
+	<csc>
+		<form>
+			<csc>
+				<form>monter</form>
+				<code>motion</code>
+			</csc> la <csc>
+				<form> rue</form>
+				<code>motPivot</code></csc><csc><form>
+			du</form><code>motPivot</code></csc></form><code>ENominalE</code></csc> Théron, puis
+					<csc><form><csc><form>emprunter</form><code>motion</code></csc> la
+					rue<csc><form> à droite</form><code>offset</code></csc><csc><form>
+					du</form><code>motPivot</code></csc><csc><form>
+				Fond</form><code>offset</code></csc></form><code>ENominalE</code></csc>-de-<csc><form><csc><form>Lieu</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>.{S}
+					<csc><form><csc><form>Prendre</form><code>motion</code></csc> ensuite<csc><form>
+					en contrebas</form><code>offset</code><code>orientation</code></csc>
+					la<csc><form>
+			voie</form><code>motPivot</code></csc></form><code>ENominalE</code></csc> verte et la
+			<csc><form>suivre</form><code>motion</code></csc>.
+			{S}<csc><form>Traverser</form><code>motion</code></csc> le tunnel des Pradeaux puis un
+	deuxième tunnel.{S} <csc><form><csc><form>Franchir</form><code>motion</code></csc> le<csc><form>
+					viaduc</form><code>motPivot</code></csc> qui enjambe la<csc><form>
+					route</form><code>motPivot</code></csc></form><code>ENominalE</code></csc> et la
+	Petite <csc><form>Gagne</form><code>motion</code></csc>.
+					{S}<csc><form><csc><form>En</form><code>offset</code></csc> arrivant
+					au<csc><form>
+			village</form><code>motPivot</code></csc></form><code>ENominalE</code></csc> de
+	Solignac, <csc><form><csc><form>prendre</form><code>motion</code></csc> la route<csc><form> à
+					droite</form><code>offset</code></csc> passant entre la salle polyvalente et
+					l'ancienne<csc><form>
+			gare</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>.{S} Puis
+					<csc><form><csc><form>à l'intersection</form><code>offset</code></csc> prendre
+			le chemin en face indiqué Site de la<csc><form>
+				cascade</form><code>motPivot</code></csc></form><code>ENominalE</code></csc> de la
+	Beaume <csc><form>6km</form><code>mesure</code><code>distance</code></csc>.{S}
+					<csc><form><csc><form>A</form><code>offset</code></csc> hauteur du<csc><form>
+					hameau</form><code>motPivot</code></csc></form><code>ENominalE</code></csc> des
+	Argizoux, <csc><form><csc><form>ignorer</form><code>percept</code></csc> un<csc><form>
+					chemin</form><code>motPivot</code></csc><csc><form> sur la
+					gauche</form><code>offset</code></csc></form><code>ENominalE</code></csc> et
+			<csc><form>continuer</form><code>motion</code></csc>
+	<csc><form>tout droit</form><code>offset</code></csc>.{S}
+					<csc><form><csc><form>Rejoindre</form><code>motion</code></csc> une<csc><form>
+					route</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>
+	(celle reliant Argizoux à Concis), la <csc><form>traverser</form><code>motion</code></csc> pour
+					<csc><form><csc><form>poursuivre</form><code>motion</code></csc><csc><form>
+					sur</form><code>offset</code></csc> la<csc><form>
+					voie</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>
+	verte.{S} De suite, <csc><form><csc><form>prendre</form><code>motion</code></csc> un<csc><form>
+					chemin</form><code>motPivot</code></csc> qui descend en<csc><form>
+					contrebas</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>,
+					<csc><form><csc><form>avant</form><code>offset</code></csc> de virer sur
+					un<csc><form> chemin</form><code>motPivot</code></csc><csc><form> à
+					gauche</form><code>offset</code></csc></form><code>ENominalE</code></csc>.{S}
+			<csc><form>2min</form><code>mesure</code><code>temps</code></csc>
+	<csc><form>après</form><code>offset</code></csc>,
+					<csc><form><csc><form>prendre</form><code>motion</code></csc> le<csc><form>
+					chemin</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>
+	<csc><form>suivant</form><code>motion</code></csc>. {S}Déboucher
+			<csc><form>sur</form><code>offset</code></csc> la
+			<csc><form>D54</form><code>NomRue</code></csc>.{S}
+					<csc><form><csc><form>Prendre</form><code>motion</code></csc><csc><form> à
+					droite</form><code>offset</code></csc> cette<csc><form>
+					route</form><code>motPivot</code></csc></form><code>ENominalE</code></csc> qui
+			<csc><form>descend</form><code>motion</code></csc>.{S}
+			<csc><form>Dans</form><code>offset</code></csc> un virage,
+					<csc><form><csc><form>suivre</form><code>motion</code></csc> un<csc><form>
+					sentier</form><code>motPivot</code></csc></form><code>ENominalE</code></csc> qui
+			<csc><form>part</form><code>motion</code></csc>
+	<csc><form>en direction</form><code>offset</code></csc> opposée.{S} Vous
+			<csc><form>retrouvez</form><code>motion</code></csc> un large
+					<csc><form><csc><form>chemin</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>.{S}
+	Le <csc><form>suivre</form><code>motion</code></csc>
+	<csc><form>à gauche</form><code>offset</code></csc>.{S}
+					<csc><form><csc><form>Retrouver</form><code>motion</code></csc> un<csc><form>
+					sentier</form><code>motPivot</code></csc> partant à droite au pied de
+					la<csc><form>
+			cascade</form><code>motPivot</code></csc></form><code>ENominalE</code></csc> de la
+	Beaume.{S} <csc><form><csc><form>Après</form><code>offset</code></csc> avoir profité<csc><form>
+					du</form><code>motPivot</code></csc> spectacle,<csc><form>
+					revenez</form><code>motion</code></csc> au<csc><form>
+					chemin</form><code>motPivot</code></csc> principal et suivez à droite la
+			direction indiquée<csc><form>
+			Parking</form><code>motPivot</code></csc></form><code>ENominalE</code></csc> de la
+	Beaume <csc><form>30mn</form><code>mesure</code><code>temps</code></csc>.{S} Puis au
+					<csc><form><csc><form>panneau</form><code>motPivot</code></csc><csc><form>
+					Parking</form><code>motPivot</code></csc></form><code>ENominalE</code></csc> de
+	la Beaume, <csc><form>10mn</form><code>mesure</code><code>temps</code></csc>,
+					<csc><form><csc><form>ignorer</form><code>percept</code></csc> cette<csc><form>
+					direction</form><code>offset</code></csc> pour poursuivre en montée sur
+					le<csc><form> chemin</form><code>motPivot</code></csc><csc><form>
+					sur</form><code>offset</code></csc></form><code>ENominalE</code></csc> lequel
+	vous êtes.{S} Il <csc><form>grimpe</form><code>motion</code></csc> fortement
+					<csc><form><csc><form>avant</form><code>offset</code></csc><csc><form>
+					d'</form><code>offset</code></csc>atteindre le<csc><form>
+					plateau</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>.{S}
+					<csc><form><csc><form>Virer</form><code>motion</code></csc><csc><form>
+					sur</form><code>offset</code></csc> un<csc><form>
+					chemin</form><code>motPivot</code></csc><csc><form> à
+					droite</form><code>offset</code></csc></form><code>ENominalE</code></csc> qui
+			<csc><form>descend</form><code>motion</code></csc> doucement
+			<csc><form>en</form><code>offset</code></csc> lacets.{S}
+					<csc><form><csc><form>A</form><code>offset</code></csc>
+					l'<csc><form>intersection</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>
+	suivante, <csc><form><csc><form>à
+				proximité</form><code>offset</code><code>orientation</code></csc><csc><form>
+					d'</form><code>offset</code></csc>une<csc><form>
+					croix</form><code>motPivot</code></csc>,<csc><form>
+					continuer</form><code>motion</code></csc><csc><form> en
+					face</form><code>offset</code></csc> pour aller au<csc><form>
+					hameau</form><code>motPivot</code></csc></form><code>ENominalE</code></csc> de
+	Collandre. {S}Le <csc><form>traverser</form><code>motion</code></csc>.{S} Aux dernières
+					<csc><form><csc><form>maisons</form><code>motPivot</code></csc> du<csc><form>
+					bourg</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>,
+					s'<csc><form><csc><form>engager</form><code>motion</code></csc><csc><form>
+					sur</form><code>offset</code></csc> la<csc><form>
+					route</form><code>motPivot</code></csc><csc><form> à
+					droite</form><code>offset</code></csc></form><code>ENominalE</code></csc>.{S}
+					<csc><form><csc><form>Après</form><code>offset</code></csc> la
+					dernière<csc><form>
+			habitation</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>,
+					<csc><form><csc><form>au pied</form><code>offset</code></csc><csc><form>
+					d'</form><code>offset</code></csc>un<csc><form>
+					poteau</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>
+	électrique <csc><form>en</form><code>offset</code></csc> béton,
+					<csc><form><csc><form>prendre</form><code>motion</code></csc> le<csc><form>
+					chemin</form><code>motPivot</code></csc></form><code>ENominalE</code></csc> qui
+			<csc><form>part</form><code>motion</code></csc>
+	<csc><form>à gauche</form><code>offset</code></csc>.{S} Puis
+			<csc><form>continuer</form><code>motion</code></csc>
+	<csc><form>en direction</form><code>offset</code></csc> de la Loire.{S}
+					<csc><form><csc><form>Parvenir</form><code>motion</code></csc><csc><form>
+					dans</form><code>offset</code></csc> des bois où le<csc><form>
+					sentier</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>
+	très raviné <csc><form>descend</form><code>motion</code></csc> fortement
+					<csc><form><csc><form>avant</form><code>offset</code></csc><csc><form>
+					d'</form><code>offset</code></csc>atteindre un secteur plus<csc><form>
+					plat</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>.{S}
+					<csc><form><csc><form>Passer</form><code>motion</code></csc><csc><form>
+					près</form><code>offset</code></csc><csc><form>
+				d'</form><code>offset</code></csc>habitations et poursuivre sur le<csc><form>
+					chemin</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>
+	principal. {S}<csc><form>Rejoindre</form><code>motion</code></csc> la
+			<csc><form>D27</form><code>NomRue</code></csc> et
+					l'<csc><form><csc><form>emprunter</form><code>motion</code></csc><csc><form> à
+					droite</form><code>offset</code></csc> pour enjamber la Loire grâce
+					au<csc><form>
+			pont</form><code>motPivot</code></csc></form><code>ENominalE</code></csc> de Chadron.{S}
+					<csc><form><csc><form>Suivre</form><code>motion</code></csc> la route<csc><form>
+					jusqu'à</form><code>offset</code></csc> parvenir à<csc><form>
+					hauteur</form><code>motPivot</code></csc><csc><form>
+					d'</form><code>offset</code></csc>une<csc><form>
+					croix</form><code>motPivot</code></csc><csc><form> à
+					gauche</form><code>offset</code></csc></form><code>ENominalE</code></csc>.{S}
+					<csc><form><csc><form>Quitter</form><code>motion</code></csc> alors
+					la<csc><form> route</form><code>motPivot</code></csc> pour prendre à gauche
+					le<csc><form>
+			chemin</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>.{S}
+					<csc><form><csc><form>Ignorer</form><code>percept</code></csc> un<csc><form>
+					chemin</form><code>motPivot</code></csc><csc><form> à
+					gauche</form><code>offset</code></csc></form><code>ENominalE</code></csc> et
+			<csc><form>poursuivre</form><code>motion</code></csc>
+	<csc><form>dans la même direction</form><code>offset</code></csc>.{S} <csc><form><csc><form>A
+					la</form><code>offset</code></csc><csc><form>
+				maison</form><code>motPivot</code></csc></form><code>ENominalE</code></csc> forte de
+	la Valette, <csc><form><csc><form>continuer</form><code>motion</code></csc> tout<csc><form>
+					droit</form><code>offset</code></csc> et ignorer un<csc><form>
+					chemin</form><code>motPivot</code></csc><csc><form> à
+					droite</form><code>offset</code></csc></form><code>ENominalE</code></csc>.{S} Le
+					<csc><form><csc><form>chemin</form><code>motPivot</code></csc>
+					devient<csc><form> sentier</form><code>motPivot</code></csc><csc><form>
+					entre</form><code>offset</code></csc></form><code>ENominalE</code></csc> prés et
+	cultures <csc><form>d'</form><code>offset</code></csc>abord, puis
+					<csc><form><csc><form>pénètre</form><code>motion</code></csc> ensuite<csc><form>
+					dans</form><code>offset</code></csc> les<csc><form>
+					bois</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>.{S}
+					<csc><form><csc><form>200m</form><code>mesure</code><code>distance</code></csc><csc><form>
+					avant</form><code>offset</code></csc> la<csc><form>
+					route</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>,
+	aller <csc><form>sur</form><code>offset</code></csc> la plate-forme
+					<csc><form><csc><form>du</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>
+	Rond de l'Ange (superbe panorama <csc><form>sur</form><code>offset</code></csc> le méandre de la
+	Loire). {S}<csc><form>Après</form><code>offset</code></csc> avoir profité de la
+			<csc><form>vue</form><code>percept</code></csc>,
+					<csc><form><csc><form>reprendre</form><code>motion</code></csc> le<csc><form>
+					sentier</form><code>motPivot</code></csc> pour déboucher sur une<csc><form>
+					route</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>.{S}
+	La <csc><form>prendre</form><code>motion</code></csc>
+	<csc><form>à gauche</form><code>offset</code></csc>.{S} Puis la
+			<csc><form>quitter</form><code>motion</code></csc> pour un
+					<csc><form><csc><form>chemin</form><code>motPivot</code></csc><csc><form> sur la
+					droite</form><code>offset</code></csc></form><code>ENominalE</code></csc>.{S} Le
+			<csc><form>suivre</form><code>motion</code></csc>
+	<csc><form>jusqu'au</form><code>offset</code></csc> gué de la Vesseyre.{S}
+			<csc><form>Arrivé</form><code>motion</code></csc> à cet endroit, ne
+					<csc><form><csc><form>pas</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>
+	<csc><form>descendre</form><code>motion</code></csc>
+	<csc><form>jusqu'à</form><code>offset</code></csc> la Loire, mais
+					<csc><form><csc><form>suivre</form><code>motion</code></csc> le<csc><form>
+					sentier</form><code>motPivot</code></csc> qui longe à droite une<csc><form>
+					habitation</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>.{S}
+					<csc><form><csc><form>Passer</form><code>motion</code></csc> la<csc><form>
+					barrière</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>.{S}
+	Au <csc><form><csc><form>sommet</form><code>motPivot</code></csc><csc><form>
+					d'</form><code>offset</code></csc>une<csc><form>
+					montée</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>,
+			<csc><form>en</form><code>offset</code></csc>
+	<csc><form>arrivant</form><code>motion</code></csc> à un champ,
+					<csc><form><csc><form>prendre</form><code>motion</code></csc> le<csc><form>
+					chemin</form><code>motPivot</code></csc></form><code>ENominalE</code></csc> qui
+			<csc><form>part</form><code>motion</code></csc>
+	<csc><form>à gauche</form><code>offset</code></csc>.{S} Hors
+					<csc><form><csc><form>sentier</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>,
+			<csc><form>passer</form><code>motion</code></csc> successivement deux clôtures (repérage
+	délicat) pour <csc><form><csc><form>rejoindre</form><code>motion</code></csc> un<csc><form>
+					sentier</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>
+	transversal.{S} Le <csc><form>prendre</form><code>motion</code></csc>
+	<csc><form>à gauche</form><code>offset</code></csc>.
+	{S} Le
+		<csc>
+			<form>
+				<csc>
+					<form>sentier</form>
+					<code>motPivot</code>
+				</csc> 
+				vous amène sur les
+				<csc>
+					<form>rives</form>
+					<code>motPivot</code>
+				</csc>
+			</form>
+			<code>ENominalE</code>
+		</csc> de la Loire
+			<csc><form>avant</form><code>offset</code></csc> de
+			s'<csc><form>en</form><code>offset</code></csc>
+	<csc><form>éloigner</form><code>motion</code></csc> et de
+			<csc><form>prendre</form><code>motion</code></csc>
+	<csc><form>la direction</form><code>offset</code></csc> de Charentus.{S}
+					<csc><form><csc><form>A</form><code>offset</code></csc>
+					l'<csc><form>intersection</form><code>motPivot</code></csc></form><code>ENominalE</code></csc>,
+			<csc><form>prendre</form><code>motion</code></csc>
+	<csc><form>à gauche</form><code>offset</code></csc> pour
+			<csc><form>franchir</form><code>motion</code></csc>
+	<csc><form>par</form><code>offset</code></csc> le radier la Loire. </texte>

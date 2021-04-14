@@ -1,0 +1,38 @@
+0000000001
+-1 graphedistance
+: 1 1 
+: 2 2 
+: 26 5 24 4 23 4 22 4 21 4 20 4 19 4 18 4 17 4 16 4 15 4 14 4 13 4 11 3 10 3 9 3 8 3 7 3 6 3 5 3 4 3 3 3 
+: 12 6 
+: 25 6 
+: 24 4 23 4 22 4 21 4 20 4 19 4 18 4 17 4 16 4 15 4 14 4 13 4 11 3 10 3 9 3 8 3 7 3 6 3 5 3 4 3 3 3 
+t 
+f 
+%<E>
+%<E>/{
+%<NB>
+%mètre
+%mètres
+%kilomètre
+%kilomètres
+%centimètres
+%centimètre
+%m
+%km
+%cm
+%<E>/,.mesure+distance}
+%minutes
+%minute
+%secondes
+%seconde
+%heures
+%heure
+%min
+%s
+%h
+%jour
+%jours
+%mn
+%<E>/,.mesure+temps}
+%#
+f

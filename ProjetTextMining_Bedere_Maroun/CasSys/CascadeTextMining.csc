@@ -1,0 +1,9 @@
+"grapheENE.fst2" Merge Enabled 1 0
+"grapheverbepercept.fst2" Merge Enabled 1 0
+"grapheverbemouv.fst2" Merge Enabled 1 0
+"grapheoffset.fst2" Merge Enabled 1 0
+"graphenomderue.fst2" Merge Enabled 1 0
+"graphemotpivot.fst2" Merge Enabled 1 0
+"graphemotcompose.fst2" Merge Enabled 1 0
+"graphedistance.fst2" Merge Enabled 1 0
+"grapheapostrophe.fst2" Merge Enabled 1 0

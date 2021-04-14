@@ -1,0 +1,32 @@
+#Unigraph
+SIZE 1382 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+12
+"<E>/{" 70 200 4 6 8 3 2 
+"" 986 135 0 
+"<NB>" 184 198 1 4 
+"<NB>" 140 149 1 10 
+"mètre+mètres+kilomètre+kilomètres+centimètres+centimètre+m+km+cm" 325 169 1 5 
+"<E>/,.mesure+distance}" 544 145 1 1 
+"<NB>" 182 340 1 11 
+"minutes+minute+secondes+seconde+heures+heure+min+s+h+jour+jours+mn" 336 360 1 9 
+"<NB>" 182 401 1 7 
+"<E>/,.mesure+temps}" 551 360 1 1 
+"#" 255 110 1 4 
+"#" 272 333 1 7 
